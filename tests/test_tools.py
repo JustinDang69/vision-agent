@@ -16,7 +16,7 @@ from vision_agent.tools import (
     owl_v2,
 )
 
-RETRIES = 3
+RETRIES = 4
 
 
 def test_grounding_dino():
